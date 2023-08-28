@@ -1,2 +1,2 @@
-# images_for_hanker-zhu
+# images
 images for hanker's blog
